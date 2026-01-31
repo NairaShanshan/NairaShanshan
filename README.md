@@ -1,8 +1,9 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=00F7FF&width=700&lines=Hello,+There!;I'm+Naira+Shanshan;Nice+to+meet+you)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=00F7FF&width=700&lines=Hello,+there!;I'm+Naira+Shanshan;Nice+to+meet+you)
 
 </p>
+
 
 <p align="center">
 Hey! 👋 I'm Naira Shanshan 😄<br>Mobile App Developer <br><br>📕  I'm a Software Engineer & Flutter Developer<br>🎓 Bachelor’s degree in Computers and Artificial Intelligence – Damietta University<br>💻 Passionate about writing clean code and learning new technologies<br><br>📫 How to reach me: nirashanshan061@gmail.com
