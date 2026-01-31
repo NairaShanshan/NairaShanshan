@@ -1,8 +1,9 @@
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=700&lines=Hello,+there!;I'm+Naira+Shanshan;Nice+to+meet+you)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=00F7FF&width=700&lines=Hello,+there!;I'm+Naira+Shanshan;Nice+to+meet+you)
 
 </p>
+
 
 Hey! 👋 I'm Naira Shanshan 😄<br>Mobile App Developer <br><br>📕  I'm a Software Engineer & Flutter Developer<br>🎓 Bachelor’s degree in Computers and Artificial Intelligence – Damietta University<br>💻 Passionate about writing clean code and learning new technologies<br><br>📫 How to reach me: nirashanshan061@gmail.com
 
@@ -16,5 +17,8 @@ Hey! 👋 I'm Naira Shanshan 😄<br>Mobile App Developer <br><br>📕  I'm a So
 ![](https://github-readme-stats.vercel.app/api?username=NairaShanshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NairaShanshan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NairaShanshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NairaShanshan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
