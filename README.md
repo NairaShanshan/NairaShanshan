@@ -1,8 +1,9 @@
-<p align="center">
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=00F7FF&width=700&lines=Hello,+there!;I'm+Naira+Shanshan;Nice+to+meet+you)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=00F7FF&width=700&lines=Hello,+There!;I'm+Naira+Shanshan;Nice+to+meet+you!)
 
-</p>
+</div>
+
 
 <p align="center">
 Hey! 👋 I'm Naira Shanshan 😄<br>
@@ -19,9 +20,8 @@ Mobile App Developer | Flutter Developer <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naira-shanshan   ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirashanshan061@gmail.com) 
 
 ---
-
+## 💻 Technical Skills :
 <p align="center">
-## 💻 Technical Skills
 
 ### 🟢 Languages
 ![Dart](https://img.shields.io/badge/-Dart-0075C2?style=flat-square&logo=dart&logoColor=white)
