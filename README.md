@@ -1,8 +1,6 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=00F7FF&width=700&lines=Hello,+There!;I'm+Naira+Shanshan;Nice+to+meet+you!)
-
-</div>
+<p align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00F7FF&width=700&lines=Hello,+There!;I'm+Naira+Shanshan;Nice+to+meet+you!)
+</p>
 
 
 <p align="center">
@@ -22,6 +20,7 @@ Hey! 👋 I'm Naira Shanshan 😄<br>Mobile App Developer <br><br>📕  I'm a So
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
@@ -37,7 +36,6 @@ Hey! 👋 I'm Naira Shanshan 😄<br>Mobile App Developer <br><br>📕  I'm a So
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
