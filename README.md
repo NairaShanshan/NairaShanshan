@@ -1,4 +1,5 @@
 <p align="center">
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00F7FF&width=700&lines=Hello,+There!;I'm+Naira+Shanshan;Nice+to+meet+you!)
 </p>
 
